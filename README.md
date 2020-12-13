@@ -42,7 +42,7 @@ views	存储视图目录
 - 退出
 
 ## 依赖
-  "dependencies": {
+ "dependencies": {
     "art-template": "^4.12.2",
     "blueimp-md5": "^2.10.0",
     "body-parser": "^1.18.2",
