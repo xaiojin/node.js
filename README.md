@@ -1,5 +1,6 @@
 # node.js-
 node小mode
+
 目录结构
 .
 app.js	项目的入口文件
@@ -42,15 +43,15 @@ views	存储视图目录
 - 退出
 
 ## 依赖
- "dependencies": {
-    "art-template": "^4.12.2",
-    "blueimp-md5": "^2.10.0",
-    "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
-    "express": "^4.16.2",
-    "express-art-template": "^1.0.0",
-    "express-session": "^1.15.6",
-    "jquery": "^3.2.1",
-    "mongoose": "^4.13.0"
-  }
-}
+>  "dependencies": {
+>     "art-template": "^4.12.2",
+>     "blueimp-md5": "^2.10.0",
+>     "body-parser": "^1.18.2",
+>     "bootstrap": "^3.3.7",
+>     "express": "^4.16.2",
+>     "express-art-template": "^1.0.0",
+>     "express-session": "^1.15.6",
+>     "jquery": "^3.2.1",
+>     "mongoose": "^4.13.0"
+>   }
+> }
